@@ -1,0 +1,84 @@
+body {
+     background-color:grey;
+   
+   background-size: cover;
+   
+}
+
+#menu1 { display:flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center;
+    position: absolute;
+    left: 300px;
+    bottom: 65%;
+    font-size: 20px;
+ 
+   
+
+    
+    
+}
+
+.logo {position: relative; left: 0%;}
+.acceuil {position: relative; left: 30%}
+.produits {position: relative; left: 60%}
+.abo {position: relative; left: 90%;}
+.faq {position: relative; left: 120%;}
+.contact {position: relative; left: 150%;}
+.rech {position: relative; left: 190%;}
+    
+ 
+    
+#titre { text-align: center; font-size: 50px; position: absolute; left:43%; top:60%;} 
+#soustitre { text-align: center; font-size: 50px; position: absolute; left:50%; top:70%;} 
+
+
+    
+    
+
+
+#texte { text-align: center; font-size: 50px; position: absolute; left:20%; top:120%;}
+
+#soustitre2 { text-align: center; font-size: 50px; position: absolute; left:20%; top:130%;} 
+ 
+
+#texte2 { text-align: center; font-size: 50px; position: absolute; left:37%; top:220%;}
+
+
+#boutondem { text-align: center; font-size: 50px; position: absolute; left:35%; top:230%;}
+
+#boutonensa{ text-align: center; font-size: 50px; position: absolute; left:50%; top:230%;}
+
+
+#soustitre3 { text-align: center; font-size: 50px; position: absolute; left:35%; top:280%;}
+#texte3 { text-align: center; font-size: 50px; position: absolute; left:45%; top:290%;}
+#cadre1 { position: absolute; left:20%; top:315%;}
+#flechegauc { position: absolute; left:18%; top:335%;}
+#flechedroi { position: absolute; left:81%;top:335%;}
+#cadre2 { position: absolute; left:20%;top:370%;}
+#texte4 { text-align: center; font-size: 20px; position: absolute; left:43%; top:367%;}
+
+#soustitre4 { text-align: center; font-size: 25px; position: absolute; left:20%; top:453%;}
+#boutondem2 { position: absolute; left:70%;top:453%;}
+#boutique1 { position: absolute; left:39.5%;top:480%;}
+#trouverbout { position: absolute; left:37%;top:483.5%;}
+#plan { position: absolute; left:39.5%;top:486.5%;}
+#solut { position: absolute; left:38%;top:490%;}
+#devis { position: absolute; left:38%;top:495%;}
+#decouvrir1 { position: absolute; left:50%;top:480%;}
+#prodphare { position: absolute; left:50%;top:483.5%;}
+#prodav { position: absolute; left:50%;top:486.5%;}
+#mission { position: absolute; left:50%;top:490%;}
+#temoignage { position: absolute; left:50%;top:495%;}
+#plus{ position: absolute; left:60%;top:480%;}
+#actu { position: absolute; left:60%;top:483.5%;}
+
+#emploi { position: absolute; left:60%;top:486.5%;}
+#contact { position: absolute; left:60%;top:490%;}
+#politique { position: absolute; left:60%;top:495%;}
+#copyright{ position: absolute; left:15%;top:525%;}
+#logo12 {
+    position: absolute;
+ 
+} */
